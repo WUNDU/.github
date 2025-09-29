@@ -48,7 +48,7 @@ A nossa **aplicação de categorização de despesas** foi desenhada para simpli
 
 ## 🍿 Fun facts
 
-Sabias que se o CEO da Wundu comer manteiga ou maionese, ele apanha um pirepaque? 😄
+Sabias que se o CEO da Wundu comer manteiga, ele apanha um pirepaque? 😄
 
 ---
 
